@@ -10,8 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "TaskGen - AI-Powered Task Management",
-  description: "Generate and manage tasks with AI assistance",
-    generator: 'v0.dev'
+  description: "Generate and manage tasks with AI assistance"
 }
 
 export default function RootLayout({
